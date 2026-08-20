@@ -6,7 +6,7 @@ Thank you for your interest in contributing! 🎉
 
 ### 1. Fork the Repository
 ```bash
-git clone https://github.com/Qyroxen/K8s-Resource-Monitor.git
+git clone https://github.com/AetherCodeHQ/K8s-Resource-Monitor.git
 cd K8s-Resource-Monitor
 ```
 
